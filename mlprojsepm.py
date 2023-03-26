@@ -1,6 +1,7 @@
 import pickle
 import streamlit as st
-from streamlit_option_menu import option_menu
+from streamlit_option_menu import option_menu 
+import numpy as np
 
 
 # loading the saved models
@@ -134,7 +135,7 @@ if (selected == 'Heart Disease Prediction'):
     # creating a button for Prediction
     
     if st.button('Heart Disease Test Result'):
-        heart_prediction = heart_disease_model.predict([[age, sex, cp, trestbps, chol, fbs, restecg,thalach,exang,oldpeak,slope,ca,thal]])                          
+        heart_prediction = heart_disease_model.predict(np.asarray([[age, sex, cp, trestbps, chol, fbs, restecg,thalach,exang,oldpeak,slope,ca,thal]],dtype=np.float32))                          
         
         if (heart_prediction[0] == 1):
           heart_diagnosis = 'The person is having heart disease'
@@ -235,4 +236,3 @@ if (selected == "Parkinsons Prediction"):
           parkinsons_diagnosis = "The person does not have Parkinson's disease"
         
     st.success(parkinsons_diagnosis)
-
