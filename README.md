@@ -13,12 +13,13 @@ The app uses the option_menu function from the streamlit_option_menu package to 
 
 * Diabetes Prediction 
 
-![WhatsApp Image 2023-03-27 at 12 17 56 AM](https://user-images.githubusercontent.com/93329536/227797775-62cb40fe-de8a-498d-b706-e2100cf6f3e7.jpeg)
+![WhatsApp Image 2023-03-27 at 12 40 15 AM](https://user-images.githubusercontent.com/93329536/227798599-f725dd87-61a0-4c34-a6ed-387255195729.jpeg)
 
 
 * Heart Disease Prediction
 
 ![WhatsApp Image 2023-03-27 at 12 18 47 AM](https://user-images.githubusercontent.com/93329536/227798358-f3b0fb90-9747-4f18-b9b5-45c21aa23a43.jpeg)
+
 
 * Parkinson's Disease Prediction
 
