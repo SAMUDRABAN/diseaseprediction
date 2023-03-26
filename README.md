@@ -18,17 +18,17 @@ The app uses the option_menu function from the streamlit_option_menu package to 
 * Pickle
 * Firebase and Google Drive
 
-* Diabetes Prediction 
+# Diabetes Prediction 
 
 ![WhatsApp Image 2023-03-27 at 12 40 15 AM](https://user-images.githubusercontent.com/93329536/227798599-f725dd87-61a0-4c34-a6ed-387255195729.jpeg)
 
 
-* Heart Disease Prediction
+# Heart Disease Prediction
 
 ![WhatsApp Image 2023-03-27 at 12 18 47 AM](https://user-images.githubusercontent.com/93329536/227798358-f3b0fb90-9747-4f18-b9b5-45c21aa23a43.jpeg)
 
 
-* Parkinson's Disease Prediction
+# Parkinson's Disease Prediction
 
 ![WhatsApp Image 2023-03-27 at 12 19 25 AM](https://user-images.githubusercontent.com/93329536/227798407-04c97eed-b372-4233-a4c9-5245bbacf288.jpeg)
 
