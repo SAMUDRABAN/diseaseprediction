@@ -11,6 +11,13 @@ For the Parkinson's Prediction page, the app takes MDVP:Fo(Hz), MDVP:Fhi(Hz), MD
 The app uses the option_menu function from the streamlit_option_menu package to create a navigation sidebar with icons to switch between pages. It also uses the streamlit columns function to organize the inputs into three columns for each page.
 
 
+# Tech Stack
+* Streamlit
+* Pandas
+* Numpy
+* Pickle
+* Firebase and Google Drive
+
 * Diabetes Prediction 
 
 ![WhatsApp Image 2023-03-27 at 12 40 15 AM](https://user-images.githubusercontent.com/93329536/227798599-f725dd87-61a0-4c34-a6ed-387255195729.jpeg)
